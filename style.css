@@ -1,0 +1,117 @@
+.pictures_container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+	}
+
+.img-profile {
+	width: 200px;
+	height: 200px;
+	object-fit: cover;
+	border-radius: 200px;
+	}
+
+body {
+	background-color: #e0e1dd;
+	align-items: center;
+	}
+
+h1 {
+  	font-family: "Poppins", sans-serif;
+ 	font-weight: 100;
+  	font-style: normal;
+  	color: #f9f7f3;
+	}
+
+.card {
+	width: 100%;
+	background-color: #8c2f39;
+	border: solid; #f9f7f3;
+	padding-left: 20px;
+	}
+
+.cards {
+	display: flex;
+	justify-content: space-between;
+	width: 400px;
+	height: 200px;
+	}
+
+h2 {
+	text-align: center;
+	font-family: "Nunito", sans-serif;
+	font-style: normal;
+	color: #8c2f39;
+	font-family: "Karla", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+	}
+
+#angelina {
+	text-align: left;
+	width: 100%;
+	background-color: #c4bbaf;
+	border: solid;
+	padding-left: 30px;
+	border-radius: 13px;
+}
+#antoine {
+	text-align: right;
+	width: 100%;
+	background-color: #c4bbaf;
+	border: solid;
+	padding-left: 30px;
+	border-radius: 13px;
+}
+.sport {
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+	border-radius: 100px;
+	display: flex;
+	align-items: center;
+	justify-content: space-around;
+	padding: 3px 180px;
+}
+.paragraphe_perso {
+	display: flex;
+	box-shadow: 15%;
+	justify-content: space-between;
+}
+
+.texte_embauche {
+	width: 100%;
+	background-color: #c4bbaf;
+	border: solid;
+	padding-left: 20px;
+	border-radius: 13px;
+}
+.ecole{
+	width: 300px;
+	height: 300px;
+	object-fit: cover;
+	border-radius: 100px;
+	margin: 80px;
+	padding: 40px;
+	border: 1px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
